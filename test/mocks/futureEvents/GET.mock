@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+
+{
+"futureEvents": [{"id": 1, "name": "React Beginner Workshop", "description": "Curious about React? Join us for React Essentials.","going":true, "date": "Monday"},
+{"id": 3, "name": "Java 8 Workshop", "description": "Find out more abot Java 8 features.","going":false, "date": "Wednesday"}
+],
+"username": "John"
+}
